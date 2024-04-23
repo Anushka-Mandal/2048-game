@@ -10,7 +10,7 @@ This is a Python implementation of the popular game 2048 using the Pygame librar
 > Pygame library
 
 
-##Installation
+## Installation
 Clone this repository:
 ```bash
 
