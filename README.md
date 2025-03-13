@@ -14,7 +14,7 @@ This is a Python implementation of the popular game 2048 using the Pygame librar
 Clone this repository:
 ```bash
 
-git clone <repository-url>
+git clone <[repository-ur](https://github.com/Anushka-Mandal/2048-game)>
 ```
 
 ## Install Pygame:
@@ -39,5 +39,4 @@ Tiles can only contain integer values that are powers of two (for the powers of 
 The game ends when the player cannot make any more moves, either because the board is full or there are no more possible merges.<br>
 The score is displayed on the screen, and the high score is stored in a text file.<br>
 
-## License
-This project is licensed under the MIT License.
+
